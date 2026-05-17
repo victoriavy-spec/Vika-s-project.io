@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#eef6ff"/>
+  <rect x="80" y="80" width="640" height="340" rx="22" fill="#ffffff" stroke="#cdddea" stroke-width="3"/>
+  <text x="110" y="140" font-family="Arial" font-size="34" fill="#333">Python Analysis</text>
+  <text x="120" y="220" font-family="monospace" font-size="32" fill="#306998">import pandas as pd</text>
+  <text x="120" y="270" font-family="monospace" font-size="32" fill="#306998">df.describe()</text>
+  <circle cx="605" cy="265" r="70" fill="#ffd43b"/>
+  <circle cx="575" cy="245" r="15" fill="#306998"/>
+  <circle cx="635" cy="285" r="15" fill="#306998"/>
+</svg>
